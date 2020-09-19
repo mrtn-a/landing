@@ -1,0 +1,12 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  align-items: center; /* vertical */
+  height: 380px;
+}
+
+.banner p {
+  opacity: 0.7;
+}
